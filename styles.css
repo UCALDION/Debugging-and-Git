@@ -1,0 +1,17 @@
+/* styles.css.txt name file = changed to styles.css */
+body {
+    background: lightblue;
+    text-align: center;  /* 'text align' to 'text-align'  */ 
+    font-family: Arial, sans-serif; /* 'font family' to 'font-family'  */
+}
+
+h1 {
+    font-size: 24px; /* 'font size' to 'font-size'  */
+    color: blue; /* no closing semi colum  */
+
+}
+
+.message {
+    font-weight: bold; /* no closing semi colum  */
+    color: red;
+}
